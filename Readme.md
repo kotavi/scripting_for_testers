@@ -90,12 +90,17 @@ Shows an example of how to read a csv file and extract data from it
 
 2. Go to [Drivers](https://selenium-python.readthedocs.io/installation.html#drivers)
 3. Choose drivers according to the browsers you going to run Selenium for and their versions
-4. Follow the steps from [Setup](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
+
+**Chrome:** Follow the steps from [Setup](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
     
-    My steps:
+    My steps (MacOS):
     1. Check what paths are there: `cat /etc/paths`
     2. Copy driver: `cp <chromedriver> /usr/local/bin/`
 
+**Firefox:** Go to [geckodriver](https://github.com/mozilla/geckodriver/) page
+
+    My steps (MacOS):
+    1. brew install geckodriver
 
 #### Developer Tools -> Console
 
