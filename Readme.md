@@ -80,6 +80,8 @@ Shows an example of how to read a csv file and extract data from it
     `python3 -m pip install gspread`
 
     `python3 -m pip install google-api-python-client`
+    
+5. Additonal information on [gspread](https://gspread.readthedocs.io/en/latest/)
       
 
 ### Selenium WebDriver
